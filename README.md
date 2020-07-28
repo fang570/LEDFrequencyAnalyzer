@@ -15,6 +15,7 @@ I made this 64x64 LED Matrix Frequency Analyzer using an audio jack, MSGEQ7 chip
 ### Schematic
 
 This is the schematic I used. It's the original MSGEQ7 recommended datasheet plus an audio jack.
+If the schematic is not clear, the OUT pin went to 19, STROBE 11, and RESET 12.
 
 ![Imgur Image](https://i.imgur.com/XJv0baLl.png)
 
