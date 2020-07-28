@@ -1,4 +1,4 @@
-# LEDFrequencyAnalyzer
+# LED Matrix Frequency Analyzer
 
 I made this 64x64 LED Matrix Frequency Analyzer using an audio jack, MSGEQ7 chip, a Teensy 3.6 and SmartLED Shield.
 ### Components
